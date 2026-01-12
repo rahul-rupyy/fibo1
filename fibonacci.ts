@@ -15,7 +15,7 @@ function fibonacci(n: number): number {
         return 1;
     }
 
-    //added optimization to reduce space complexity
+    //added optimization to reduce space complexity kasdf 
    let prev:number=0;
    let curr:number=1
 
